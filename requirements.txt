@@ -25,7 +25,6 @@ Library==0.0.0
 MarkupSafe==2.0.1
 missingno==0.5.1
 mistune==0.8.4
-mkl-service==2.4.0
 multimethod==1.7
 munkres==1.1.4
 networkx==2.7.1
