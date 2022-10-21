@@ -60,4 +60,4 @@ wincertstore==0.2
 yarl==1.8.1
 Flask==1.1.1
 gunicorn==19.9.0
-pandas==0.25.0
+pandas==0.25.1
